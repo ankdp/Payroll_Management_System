@@ -107,17 +107,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-[1]: https://github.com/topics/windows-forms-csharp  
-[3]: https://github.com/dotnet/samples/blob/main/windowsforms/README.md  
-[6]: https://stackoverflow.com/questions/31890717/adding-a-readme-md-file-to-a-c-sharp-project-in-visual-studio-2015
-
-[1] https://github.com/topics/windows-forms-csharp
-[2] https://github.com/topics/windows-forms
-[3] https://github.com/dotnet/samples/blob/main/windowsforms/README.md
-[4] https://github.com/dotnet/winforms
-[5] https://github.com/stimulsoft/Samples-Dashboards-WinForms-WPF-CSharp/blob/master/README.md
-[6] https://stackoverflow.com/questions/31890717/adding-a-readme-md-file-to-a-c-sharp-project-in-visual-studio-2015
-[7] https://github.com/MiguelCosta/sample-windows-forms
-[8] https://github.com/smokindinesh/Csharp-windows-form-sample/blob/master/README.md
-[9] https://github.com/topics/winforms-application?l=c%23
-[10] https://github.com/dotnet/winforms/blob/main/pkg/Microsoft.Dotnet.WinForms.ProjectTemplates/readme.md
